@@ -1,0 +1,10 @@
+INSERT INTO tb_vendedor (nome) VALUES ('Will');
+INSERT INTO tb_vendedor (nome) VALUES ('Willams');
+INSERT INTO tb_vendedor (nome) VALUES ('Bernardo');
+INSERT INTO tb_vendedor (nome) VALUES ('Lima');
+INSERT INTO tb_vendedor (nome) VALUES ('Souza');
+INSERT INTO tb_venda (vendedor_id, valor_venda, data_venda) VALUES (2, 100.0, '2021-11-07');
+INSERT INTO tb_venda (vendedor_id, valor_venda, data_venda) VALUES (2, 1200.0, '2021-11-06');
+INSERT INTO tb_venda (vendedor_id, valor_venda, data_venda) VALUES (3, 1324.2, '2021-11-05');
+INSERT INTO tb_venda (vendedor_id, valor_venda, data_venda) VALUES (4, 3214.0, '2021-11-04');
+INSERT INTO tb_venda (vendedor_id, valor_venda, data_venda) VALUES (5, 321.12, '2021-11-03');
